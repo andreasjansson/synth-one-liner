@@ -1,6 +1,6 @@
 # Synth one-liner
 
-![Run on Replicate](https://replicate.com/andreasjansson/synth-one-liner/badge)
+[![Run on Replicate](https://replicate.com/andreasjansson/synth-one-liner/badge)](https://replicate.com/andreasjansson/synth-one-liner)
 
 In 2011 Viznut posted a blog post called ["Algorithmic symphonies from one line of code -- how and why?"](http://countercomplex.blogspot.com/2011/10/algorithmic-symphonies-from-one-line-of.html). He described a way to generate algorithmic 8-bit synth compositions in a single line of C. For example,
 
